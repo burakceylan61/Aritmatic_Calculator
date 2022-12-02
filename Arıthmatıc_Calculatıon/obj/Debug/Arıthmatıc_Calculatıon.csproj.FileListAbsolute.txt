@@ -1,0 +1,11 @@
+C:\Users\burak\Desktop\Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon\obj\Debug\Arıthmatıc_Calculatıon.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon\obj\Debug\Arıthmatıc_Calculatıon.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\Desktop\Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon\obj\Debug\Arıthmatıc_Calculatıon.Form1.resources
+C:\Users\burak\Desktop\Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon\obj\Debug\Arıthmatıc_Calculatıon.Properties.Resources.resources
+C:\Users\burak\Desktop\Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon\obj\Debug\Arıthmatıc_Calculatıon.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon\obj\Debug\Arıthmatıc_Calculatıon.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon\bin\Debug\Arıthmatıc_Calculatıon.exe.config
+C:\Users\burak\Desktop\Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon\bin\Debug\Arıthmatıc_Calculatıon.exe
+C:\Users\burak\Desktop\Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon\bin\Debug\Arıthmatıc_Calculatıon.pdb
+C:\Users\burak\Desktop\Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon\obj\Debug\Arıthmatıc_Calculatıon.exe
+C:\Users\burak\Desktop\Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon\obj\Debug\Arıthmatıc_Calculatıon.pdb

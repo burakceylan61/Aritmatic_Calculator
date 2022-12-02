@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arıthmatıc_Calculatıon", "Arıthmatıc_Calculatıon\Arıthmatıc_Calculatıon.csproj", "{6FBEFEC1-0F39-4498-8A9E-90C6E3BC45F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FBEFEC1-0F39-4498-8A9E-90C6E3BC45F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBEFEC1-0F39-4498-8A9E-90C6E3BC45F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBEFEC1-0F39-4498-8A9E-90C6E3BC45F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBEFEC1-0F39-4498-8A9E-90C6E3BC45F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5C4EAB-0EDC-4C07-9377-A926426E2D90}
+	EndGlobalSection
+EndGlobal
